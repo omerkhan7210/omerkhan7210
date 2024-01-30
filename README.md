@@ -3,8 +3,6 @@
 <!--
 **omerkhan7210/omerkhan7210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on mern stack e-commerce website
 - 🌱 I’m currently learning .net,node.js,php
 - 💬 Ask me about REACT JS,BOOTSTRAP,JAVASCRIPT,JAVA,C++,PHP,NODE JS,HTML,CSS,WORDPRESS,SHOPIFY,HOSTING CONFIGRATION, .NET
