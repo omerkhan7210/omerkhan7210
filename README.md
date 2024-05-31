@@ -11,3 +11,4 @@
  ⚡ Fun fact: Today i downloaded a file which contain virus and my pc got hacked :(
  ps:- please be aware of malicious websites ;)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=omerkhan7210&theme=vue&hide_border=true)](https://git.io/streak-stats)
