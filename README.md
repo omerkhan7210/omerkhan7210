@@ -4,7 +4,7 @@
  
  🌱 I’m currently learning .net,node.js,php
  
- 💬 Ask me about REACT JS,BOOTSTRAP,JAVASCRIPT,JAVA,C++,PHP,NODE JS,HTML,CSS,WORDPRESS,SHOPIFY,HOSTING CONFIGURATION, .NET
+ 💬 Ask me about REACT JS,BOOTSTRAP,JAVASCRIPT,JAVA,C++,PHP,NODE JS,HTML,CSS,WORDPRESS,SHOPIFY, DOTNET
  
  📫 How to reach me: omerfarooqkhan7210@gmail.com
  
