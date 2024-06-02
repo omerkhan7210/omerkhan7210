@@ -23,7 +23,7 @@ You can contact me via email at: omerfarooqkhan7210@gmail.com
 ⚡ Fun Fact
 Recently, I downloaded a file containing a virus, which unfortunately led to my PC being hacked. This was a tough lesson in cybersecurity and the importance of being cautious online. Always be aware of malicious websites!
 
-GitHub Stats
+GitHub Stats ![](https://raw.githubusercontent.com/omerkhan7210/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 Languages and Tools
 
