@@ -8,7 +8,7 @@ I am a passionate and dedicated MERN Stack as well as iOS/Android (Hybrid) Mobil
 - 👀 I'm experienced in full stack web development, mobile app development, and exploring new technologies.
 - 🌱 I’m currently learning advanced Node.js and exploring serverless architecture.
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
-- 📫 How to reach me: sohailahmaddev@gmail.com
+- 📫 How to reach me: omerfarooqkhan7210@gmail.com
 - ⚡ Fun fact: I love playing chess and coding challenges.
 
 ## 🛠️ Tech Stack
@@ -38,15 +38,6 @@ I am a passionate and dedicated MERN Stack as well as iOS/Android (Hybrid) Mobil
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-## 👨‍💻 Experience
-
-- React JS Developer at Pixel and Beam
-- React/React Native Developer at AI Technologies
-- Frontend Developer at Local Happeniz
-- Frontend Developer at Xomacs
 
 ---
 
